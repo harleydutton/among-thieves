@@ -1,0 +1,1 @@
+the game ends when a player has amassed a fortune of 7 or more coins immediately after the "betrayal" step is resolved. If multiple players have 7 or more doins the one who has the most wins. In case of a tie, nobody wins, the game continues as usual until a clear winner emerges.

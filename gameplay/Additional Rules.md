@@ -1,0 +1,3 @@
+- if you do the rules wrong and are detrimented by it, get fucked.
+- if you do the rules wrong and are benefitted by it, you're a liar and a cheat in addition to being a thief.
+- if you have to pay a coin but don't have any you get a free pass

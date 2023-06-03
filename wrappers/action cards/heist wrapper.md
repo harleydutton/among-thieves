@@ -1,0 +1,1 @@
+![[heist-chest.png]]
