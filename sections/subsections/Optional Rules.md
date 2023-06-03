@@ -1,3 +1,4 @@
 - Resolve [[No Honor]] cards in turn order, starting with the [[Master Thief]] as soon as they are revealed in step 2 of each [[Round]] and skip step 5
 - Pass the [[Master Thief]] card counterclockwise instead of clockwise at the end of of the Round
 - Don't shuffle revealed [[Heist Locations]] into the Heist Location deck until the deck is empty
+- When [[Heist|Heists]] resolve on step 4 of the [[Round]] the thief who heisted takes the [[Heist Locations|Heist Location]]. They can look at it but they they are not able to find a fence or get caught until round 4 of the *nex*t round. They will not gain or lose any coins from the **Heist** until then.

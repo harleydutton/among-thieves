@@ -1,4 +1,4 @@
-- 3x [[Jail Card.png]]
-- 2x [[1 Coin Card.png]]
-- 3x [[2 Coins Card.png]]
-- 2x [[3 Coins Card.png]]
+- 3x [[Jail Card.png|Jail Cards]]
+- 2x [[1 Coin Card.png|1 Coin Cards]]
+- 3x [[2 Coins Card.png|2 Coins Cards]]
+- 2x [[3 Coins Card.png|3 Coins Cards]]
