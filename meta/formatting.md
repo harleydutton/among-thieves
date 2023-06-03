@@ -1,0 +1,2 @@
+- If mentioning an abstract game concept in prose I will use title case.
+- If I mention an abstract game concept outside the document I am working on I will link the first occurrence and bold the rest.

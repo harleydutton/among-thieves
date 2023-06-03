@@ -4,10 +4,16 @@
 ![[Intro]]
 
 ---
+![[Components]]
+
+---
 ![[Setup]]
 
 ---
-![[Round]]
+![[Action Cards]]
+
+---
+![[Round|]]
 
 ---
 ![[Winning the Game]]
