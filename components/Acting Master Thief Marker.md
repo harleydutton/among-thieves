@@ -1,0 +1,1 @@
+{{image embed}}: this is the first player marker

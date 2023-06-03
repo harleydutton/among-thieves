@@ -1,10 +1,10 @@
 - This rule-book
-- Action cards:
-	- 5x Steal
-	- 5x Trap
-	- 5x Heist (all with different art)
-	- 5x Sabotage
-	- 5x No Honor
+- [[Action Cards]]:
+	- 5x [[Steal]]
+	- 5x [[Trap]]
+	- 5x [[Heist]] (all with different art)
+	- 5x [[Sabotage]]
+	- 5x [[No Honor]]
 - 10 heist location cards has follows:
 	- 3x Prison cards
 	- 2x 1 coin cards
