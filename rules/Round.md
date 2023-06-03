@@ -6,3 +6,4 @@
 6. fool me once...: each player secretly chooses one of their two action cards from the round and discards it face down. Any player that played [[No Honor]] must choose that card. If you would discard down to one, instead return all cards in your discard to your hand.
 7.  cleaning up: all players add their remaining card back to their hand, the resolved heist locations are put in the heist discard, and new heist locations are drawn to replace the resolved ones.
 8. passing the torch: the current master thief passes the master thief marker clockwise and the new master thief takes one coin from the city. Then, the next round begins.
+[[problems]]
