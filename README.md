@@ -11,8 +11,8 @@
 - Download and install Termux and Obsidian from the Google Play store
 - Open Termux and run `apt-get update` (upgrade?) and then `termux-enable-storage` and follow the prompts
 - Clone this git repo into `~/storage/shared/`
-- Open the project with Obsidian and open The Rules
+- Open the project with Obsidian, open The Rules, and switch to Preview mode
 ### Windows
 - Download and install git and Obsidian
 - Clone the repo
-- Open the project with Obsidian and open The Rules
+- Open the project with Obsidian, open The Rules, and switch to Preview mode
