@@ -7,10 +7,10 @@
 ![[Components]]
 
 ---
-![[Setup]]
+![[Cards]]
 
 ---
-![[Action Cards]]
+![[Setup]]
 
 ---
 ![[Round|]]

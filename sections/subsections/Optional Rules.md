@@ -2,3 +2,4 @@
 - Pass the [[Master Thief]] card counterclockwise instead of clockwise at the end of of the Round
 - Don't shuffle revealed [[Heist Locations]] into the Heist Location deck until the deck is empty
 - When [[Heist|Heists]] resolve on step 4 of the [[Round]] the thief who heisted takes the [[Heist Locations|Heist Location]]. They can look at it but they they are not able to find a fence or get caught until round 4 of the *nex*t round. They will not gain or lose any coins from the **Heist** until then.
+- Increase the number of coins in the game from 31 to 43 as this is the maximum possible number of coins to have in circulation.

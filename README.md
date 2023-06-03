@@ -4,7 +4,7 @@
 1. Images for the card faces and back are in `./meta/iamges/`
 2. Quantities needed are in `./sections/Components.md`
 3. Order from an [online print shop](https://www.makeplayingcards.com/design/custom-blank-card.html)
-4. Get your own coins; the maximum you could need is 43.
+4. Get your own coins; the maximum you could need is 43
 
 ## Viewing Instructions
 ### Android

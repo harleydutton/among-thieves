@@ -1,10 +1,10 @@
 Among Thieves is a game played in a few **Rounds**, consisting of the same basic steps as described below until some clever and cunning thief [[Winning the Game|wins the game]].
 1. Secretly select 2 cards from you hand that you will play this round.
 2. Lift a finger and count "3-2-1 No honor among thieves!" and point at a thief to rob if you chose the [[No Honor]] card. it is played immediately in turn order starting with the who has the [[Acting Master Thief Marker]]. the other players simply put their hands down.
-3. the reveal: starting with the player with the [[Acting Master Thief Marker]], clockwise, players take turns revealing one face down action card and resolving its effect if not interrupted until all cards have been revealed. IMPORTANT! when played as an interrupt [[Trap]] and [[Sabotage]] don't count as the card you revealed for your turn.
-4. The reward: resolve successful heists and collect rewards. If the [[Heist Locations]] card is a prison, the player is caught and must bribe the jailor with a coin, if able. the coin is returned to [[The City]]
-5. betrayal!: resolve all [[No Honor]]action cards, starting from the [[Acting Master Thief Marker]] in a clockwise fashion.
-6. fool me once...: each player secretly chooses one of their two action cards from the round and discards it face down. Any player that played [[No Honor]] must choose that card. If you would discard down to one, instead return all cards in your discard to your hand.
-7.  cleaning up: all players add their remaining card back to their hand, the resolved heist locations are put in the heist discard, and new heist locations are drawn to replace the resolved ones.
-8. passing the torch: the current master thief passes the master thief marker clockwise and the new master thief takes one coin from the city. Then, the next round begins.
+3. starting with the player with the [[Acting Master Thief Marker]], clockwise, players take turns revealing one face down action card and resolving its effect if not interrupted until all cards have been revealed. IMPORTANT! when played as an interrupt [[Trap]] and [[Sabotage]] don't count as the card you revealed for your turn.
+4. resolve successful heists and collect rewards. If the [[Heist Locations]] card is a prison, the player is caught and must bribe the jailor with a coin, if able. the coin is returned to [[The City]]
+5. resolve all [[No Honor]]action cards, starting from the [[Acting Master Thief Marker]] in a clockwise fashion.
+6. each player secretly chooses one of their two action cards from the round and discards it face down. Any player that played [[No Honor]] must choose that card. If you would discard down to one, instead return all cards in your discard to your hand.
+7. all players add their remaining card back to their hand, the resolved heist locations are put in the heist discard, and new heist locations are drawn to replace the resolved ones.
+8. the current master thief passes the master thief marker clockwise and the new master thief takes one coin from the city. Then, the next round begins.
 [[problems]]

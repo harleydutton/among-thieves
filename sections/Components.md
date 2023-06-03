@@ -7,4 +7,4 @@
 ![[Heist Locations]]
 
 1 [[Master Thief]] card
-43 coins
+31 coins
