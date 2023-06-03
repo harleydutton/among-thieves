@@ -1,8 +1,8 @@
-5x [[Steal]]
-5x [[Trap]]
-5x [[Heist]] (all with different art)
-5x [[Sabotage]]
-5x [[No Honor]]
+5x [[Steal Card.png|Steal Cards]]
+5x [[Trap Card.png|Trap Cards]]
+5x [[Heist Card.png|Heist Cards]] (all with different art)
+5x [[Sabotage Card.png|Sabotage Cards]]
+5x [[No Honor Card.png|No Honor Cards]]
 
 ![[Heist Locations]]
 
