@@ -11,8 +11,12 @@
 - Download and install Termux and Obsidian from the Google Play store
 - Open Termux and run `apt-get update` (upgrade?) and then `termux-enable-storage` and follow the prompts
 - Clone this git repo into `~/storage/shared/`
-- Open the project with Obsidian, open The Rules, and switch to Preview mode
+- Open Obsidian and open the repo folder as a vault
+- Open the preferences menu, go to "Appearance", scroll to the bottom, refresh css snippets, and enable "clean-embeds"
+- Open "The Rules" and switch to preview mode
 ### Windows
 - Download and install git and Obsidian
-- Clone the repo
-- Open the project with Obsidian, open The Rules, and switch to Preview mode
+- Clone this git the repo somewhere
+- Open Obsidian and open the repo folder as a vault
+- Open Obsidian, open the preferences menu, go to "Appearance", scroll to the bottom, refresh css snippets, and enable "clean-embeds"
+- Open "The Rules" and switch to preview mode
