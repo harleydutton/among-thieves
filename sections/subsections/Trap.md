@@ -1,5 +1,3 @@
-[[Trap Card.png]]: Can be played in two different ways:
-- Interrupt: when a player reveals the [[Steal]] card, each player, starting from the one to his left me play trap to prevent him from stealing. Whether he should do it or not is purely optional, but having chosen, he cannot change his mind.
-- On your turn: Then you play trap on your turn you point at a player who hasn't revealed a Steal card yet. If he does play the steal card, no matter if it's his first or second action, he's caught and he must bribe the police with a coin, if able. The coin is returned to the city.
--  IMPORTANT! when played as an interrupt [[Trap]] and [[Sabotage]] don't count as the card you revealed for your turn.
-[[problems]]
+[[Trap Card.png|Trap Card]]: Foil a petty theft. Can be played in two different ways:
+- As an Interrupt: When a thief plays [[Steal|Steals]], proceeding clockwise from the thief playing it, each other thief will have a chance to play [[Trap]] and the stealing thief is [[Caught]]. This does not count as revealing a card for your turn.
+- On your turn: You may play [[Trap]]  on your turn by pointing at a player who hasn't revealed a **Steal** card yet. If that thief plays **Steal** at any point they are immediately [[Caught]].

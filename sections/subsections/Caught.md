@@ -1,0 +1,3 @@
+When a thief is **Caught** committing robberies they must bribe jailer or constabulary of [[The City]]. They do not get any rewards for their failed robbery and must instead give **The City** one coin, if able. This can result from the [[Jail Card.png|Jail Heist Location]], or another thief's [[Trap]] or [[Sabotage]].
+
+[[problems]] embed this somewhere for single doc presentation? Maybe make a new "concepts" section
