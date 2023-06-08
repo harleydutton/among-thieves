@@ -5,3 +5,6 @@ IMPORTANT! when you put your card on top of a heist location, you do not reveal 
 
 
 [[problems]]
+
+
+ If a [[Heist Locations|Heist Location]] has coins on it the heisting thief steals that many coins from [[The City]]. If the **Heist Location** is a [[Jail Card.png|Jail Card]], the thief is caught and must bribe the jailer of **The City** with a coin, if able.

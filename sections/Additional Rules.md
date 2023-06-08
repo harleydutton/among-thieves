@@ -3,4 +3,6 @@
 - If you would have to pay a coin but don't have any, you get a beating from the constabulary and are just as poor as you were.
 - You cannot take blood from a stone -- if you would steal from a thief or **The City** with no coins, you get nothing!
 
+[[problems]] move the optional rules to a top level section?
+
 ![[Optional Rules]]

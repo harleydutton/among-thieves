@@ -1,1 +1,1 @@
-The City is the pile or bowl of coins in the center of the table that represents the wealth of the Citizenry. It should contain a maximum of 43 coins.
+The City is the pile or bowl of coins in the center of the table that represents the wealth of the Citizenry. It should contain a maximum of 31 coins.
