@@ -1,3 +1,3 @@
 When a thief is Caught committing robberies they must bribe the law in order to escape. The thief receives no coins from their robbery and returns one coin to [[The City]], if able.
 
-[[problems]] make it clear that crimes are independent and you can only get caught for one crime at a time.
+[[problems]] make it clear that crimes are independent and you can only get caught for one crime at a time. probably a better way to handle this is to say you cannot sabotage someone who is already sabotaged and you cannot trap someone who is already trapped.
