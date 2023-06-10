@@ -1,3 +1,1 @@
 The game ends when a thief has amassed a fortune of 7 or more coins immediately after step [[problems for later|5]] of a [[Round]]. If multiple thieves have 7 or more coins, the thief with the most coins wins. If there is a tie for the largest fortune, the game continues as usual until a clear winner emerges.
-
-[[problems]] should this be it's own step rather than an additional step 5.5?

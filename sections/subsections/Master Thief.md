@@ -1,1 +1,1 @@
-Whomever possesses the [[Master Thief Card.png|Master Thief Card]] is the Master Thief. When a thief becomes a master they steal one coin from [[The City]].
+Whomever possesses the [[master-thief.png|Master Thief Card]] is the Master Thief. When a thief becomes a master they steal one coin from [[The City]].

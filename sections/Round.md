@@ -6,4 +6,4 @@ Among Thieves is a game played in a few **Rounds**, consisting of the same basic
 5. Resolve all [[No Honor]] cards, starting with the [[Master Thief]] and proceeding clockwise.
 6. Each thief secretly chooses one of the cards they played this **Round** and discards it face down and returns the other to their hand. Then, if a thief only has one card in hand they return all discarded cards to their hand.
 7. Resolved [[Heist Locations]] are shuffled into the deck and new ones are drawn to replace the missing ones.
-8. The current [[Master Thief]] passes the [[Master Thief Card.png|Master Thief Card]] to the next thief clockwise. Then, the next round begins.
+8. The current [[Master Thief]] passes the [[master-thief.png|Master Thief Card]] to the next thief clockwise. Then, the next round begins.

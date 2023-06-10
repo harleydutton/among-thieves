@@ -7,9 +7,7 @@ all of this goes in the middle of the table.
 
 heist locations can be heisted. when the heist resolves the heister gets coins or prison
 
-- 3x [[Jail Card.png|Jail Cards]]
-- 2x [[1 Coin Card.png|1 Coin Cards]]
-- 3x [[2 Coins Card.png|2 Coins Cards]]
-- 2x [[3 Coins Card.png|3 Coins Cards]]
-
-[[problems]] referenced in the monolith doc but not embedded so cannot be linked
+- 3x [[jail.png|Jail Cards]]
+- 2x [[coin-1.png|1 Coin Cards]]
+- 3x [[coin-2.png|2 Coins Cards]]
+- 2x [[coin-3.png|3 Coins Cards]]

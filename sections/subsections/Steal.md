@@ -1,1 +1,1 @@
-[[Steal Card.png|Steal Card]]: Rob a citizen. If not [[Trap|Trapped]], immediately take a coin from [[The City]].
+[[steal.png|Steal Card]]: Rob a citizen. If not [[Trap|Trapped]], immediately take a coin from [[The City]].

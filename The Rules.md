@@ -61,4 +61,5 @@ The following are abstract concepts rather than physical game components each th
 ## Additional Rules
 ![[Additional Rules]]
 
-[[problems]] this needs section headers and many of the links need redirected
+## Credits
+![[Credits]]
