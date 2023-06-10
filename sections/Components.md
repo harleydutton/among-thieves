@@ -7,7 +7,7 @@
 - 10 heist locations:
 	- 3x [[jail.png|Jail Cards]]
 	- 2x [[coin-1.png|1 Coin Cards]]
-	- 3x [[coin-2.png|2 Coins Cards]]
-	- 2x [[coin-3.png|3 Coins Cards]]
+	- 3x [[coin-2.png|2 Coin Cards]]
+	- 2x [[coin-3.png|3 Coin Cards]]
 - 1 [[master-thief.png|Master Thief Card]]
 - 31 coins
