@@ -11,3 +11,5 @@ heist locations can be heisted. when the heist resolves the heister gets coins o
 - 2x [[coin-1.png|1 Coin Cards]]
 - 3x [[coin-2.png|2 Coins Cards]]
 - 2x [[coin-3.png|3 Coins Cards]]
+
+[[problems]]

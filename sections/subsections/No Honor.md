@@ -1,4 +1,4 @@
-[[no-honor.png|No Honor]]: The ends justify the means; rob another thief! If you selected **No Honor** as one of your cards for the [[Round]], it will be revealed early in the **Round** and resolve late in the **Round**.
+![[diamonds-60.png]]: The ends justify the means; rob another thief! If you selected **No Honor** as one of your cards for the [[Round]], it will be revealed early in the **Round** and resolve late in the **Round**.
 1. Playing: In step 2 of the **Round**, on the [[Master Thief|Master Thief's]] count, reveal **No Honor** and point at another thief to rob.
 2. Resolving: In step 5 of the **Round**, in turn order, starting with the **Master Thief**, each thief who played **No Honor** takes one coin from the thief they pointed at. If the thief you are robbing has 5 coins you take two instead. If the thief you are robbing has played both [[Trap]] and [[Sabotage]] they are an **"Honest Businessperson"**, you are [[Caught]], and [[The City]] awards them one coin. 
 3. Discarding: If you played this card, you must discard it in step 6 of the **Round**.
