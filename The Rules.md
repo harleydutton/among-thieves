@@ -38,7 +38,7 @@ To be able to play the game correctly, each thief will need to understand each o
 ### Sabotage
 ![[Sabotage]]
 
-### No honor
+### No Honor
 ![[No Honor]]
 
 ---

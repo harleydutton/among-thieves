@@ -1,4 +1,4 @@
-[[no-honor.png|No Honor]]: Steal a coin from another player. If he has 5 or more, steal 2 coins. It's the first card to be revealed and the last to come into effect. If played, this card must be discarded.
-IMPORTANT! you can only rob another thief (hence the name of the action). This means the player you want to steal from should have played at least one of the following cards: [[Steal]], [[Heist]], No Honor. If he has exactly Trap and Sabotage, he's not a thief, but is referred to as an "honest businessman." If you try to steal from an honest businessman, you are caught by the constabulary and have to pay that player one coin, it able. The coin is added to his fortune!
-
-[[problems]]
+[[no-honor.png|No Honor]]: The ends justify the means; rob another thief! If you selected **No Honor** as one of your cards for the [[Round]], it will be revealed early in the **Round** and resolve late in the **Round**.
+1. Playing: In step 2 of the **Round**, on the [[Master Thief|Master Thief's]] count, reveal **No Honor** and point at another thief to rob.
+2. Resolving: In step 5 of the **Round**, in turn order, starting with the **Master Thief**, each thief who played **No Honor** takes one coin from the thief they pointed at. If the thief you are robbing has 5 coins you take two instead. If the thief you are robbing has played both [[Trap]] and [[Sabotage]] they are an **"Honest Businessperson"**, you are [[Caught]], and [[The City]] awards them one coin. 
+3. Discarding: If you played this card, you must discard it in step 6 of the **Round**.

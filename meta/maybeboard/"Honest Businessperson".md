@@ -1,0 +1,1 @@
+Though rare, thieves sometimes go straight. A player who has played both the [[Trap]] and [[Sabotage]] cards is an **"Honest Businessperson"** and is in cahoots with the law! If you try to rob them with [[No Honor]], you are [[Caught]] and must give [[The City]] one coin.
