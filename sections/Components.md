@@ -11,3 +11,4 @@
 	- 2x [[coin-3.png|3 Coin Cards]]
 - 1 [[master-thief.png|Master Thief Card]]
 - 31 coins
+[[problems]] these links need removed or replaced with image embeds

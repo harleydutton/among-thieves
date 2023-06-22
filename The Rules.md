@@ -41,15 +41,15 @@ To be able to play the game correctly, each thief will need to understand each o
 ### No Honor
 ![[No Honor]]
 
+### Master Thief
+![[Master Thief]]
+
 ---
 ## Concepts
 The following are abstract concepts rather than physical game components each thief will need to understand in order to play:
 
 ### The City
 ![[The City]]
-
-### Master Thief
-![[Master Thief]]
 
 ### Getting Caught
 ![[Caught]]

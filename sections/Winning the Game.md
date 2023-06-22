@@ -1,1 +1,3 @@
 The game ends when a thief has amassed a fortune of 7 or more coins immediately after step [[problems for later|5]] of a [[Round]]. If multiple thieves have 7 or more coins, the thief with the most coins wins. If there is a tie for the largest fortune, the game continues as usual until a clear winner emerges.
+
+[[problems]] I don't like having this as step 5.5. change it to an "at the end of the round" sort of deal. Put the changing of master thief as the first thing that happens in a round rather than the last.
