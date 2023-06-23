@@ -44,18 +44,18 @@ To be able to play the game correctly, each thief will need to understand each o
 ### Master Thief
 ![[Master Thief]]
 
+### Heist Locations
+![[Heist Locations]]
+
 ---
 ## Concepts
-The following are abstract concepts rather than physical game components each thief will need to understand in order to play:
+The following are abstract concepts rather than physical game components. Each thief will need to understand them in order to play:
 
 ### The City
 ![[The City]]
 
-### Getting Caught
+### Caught
 ![[Caught]]
-
-### Heist Locations
-![[Heist Locations]]
 
 ---
 ## Additional Rules

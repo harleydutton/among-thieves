@@ -1,14 +1,13 @@
 - 5 sets of 5 action cards:
-	- 5x [[steal.png|Steal Cards]]
-	- 5x [[trap.png|Trap Cards]]
-	- 5x [[heist-chest.png|Heist Cards]] -- all with different art
-	- 5x [[sabotage.png|Sabotage Cards]]
-	- 5x [[no-honor.png|No Honor Cards]]
+	- 5x Steal Cards
+	- 5x Trap Cards
+	- 5x Heist Cards -- all with different art
+	- 5x Sabotage Cards
+	- 5x No Honor Cards
 - 10 heist locations:
-	- 3x [[jail.png|Jail Cards]]
-	- 2x [[coin-1.png|1 Coin Cards]]
-	- 3x [[coin-2.png|2 Coin Cards]]
-	- 2x [[coin-3.png|3 Coin Cards]]
-- 1 [[master-thief.png|Master Thief Card]]
+	- 3x Jail Cards
+	- 2x 1-Coin Cards
+	- 3x 2-Coin Cards
+	- 2x 3-Coin Cards
+- 1 Master Thief Card
 - 31 coins
-[[problems]] these links need removed or replaced with image embeds
