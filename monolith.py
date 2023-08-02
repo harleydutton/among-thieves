@@ -1,27 +1,26 @@
-import sys, re
+import sys, re, methods
+from pathlib import Path
 
 ep = sys.argv[1]
+projectRoot = Path(ep).parent.resolve()
 
 contents = ""
 with open(ep) as my_file:
     contents = my_file.read()
 
+embedRE = r"\!\[\[(?P<file>.*)\]\]"
+#linkRE = r"\[\[(?P<file>.*)(?P<heading>#.*){0,1}(?P<text>\|.*){0,1}\]\]"
 
-embedRE = r"\!\[\[.*\]\]"
-linkRE = re.compile(r"\!\[\[(?P<file>.*)(?P<heading>#.*)(?P<text>\|.*)\]\]")
-
-#this should be replaced with "while <single match>:"
 #while '[[' in contents:
-print(contents)
-print(re.match(embedRE,contents))
-    
+m = re.search(embedRE,contents)
+print(m.groupdict())
+
+print(methods.findFile(projectRoot,m.groupdict()['file']))
+myFile = methods.findFile(projectRoot,m.groupdict()['file'])
+myText = methods.embed(myFile)
+print(myText)
 
 
-def findFile(name):
-    return "filename placeholder"
-
-def embed(token):
-    return "embed placeholder"
 
 def link(token):
     return "link placeholder"
