@@ -21,7 +21,11 @@ while re.search(embedRE,mnlText):
     counter += 1
     print (counter)
     match = re.search(embedRE,mnlText)
-    text = methods.cat(methods.findFile(projectRoot,match.groupdict()["file"]))
+    print(match.groupdict()["file"])
+    filename = methods.findFile(projectRoot,match.groupdict()["file"])
+    if ".md" not in filename:
+        continue
+    text = methods.cat(filename)
     mnlText=mnlText.replace(match.group(0),text)
 print(mnlText)
 
