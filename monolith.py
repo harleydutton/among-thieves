@@ -5,7 +5,7 @@ mnlName = Path(sys.argv[1]).resolve()
 projectRoot = Path(mnlName).parent.resolve()
 mnlText = methods.cat(mnlName)
 
-embedRE = r"\!\[\[(?P<file>.*?)(\|(?P<rename>.*?))?\]\]"
+embedRE = r"\!\[\[(?P<file>.*?)(\\?\|(?P<rename>.*?))?\]\]"
 linkRE = r"[^!](?P<car>\[\[(?P<file>.*?)(#(?P<subsection>.*?))?(\\?\|(?P<rename>.*?))?\]\])"
 
 maxDepth = int(sys.argv[2])
@@ -22,9 +22,11 @@ for match in re.finditer(linkRE,mnlText):
         link = methods.githubLink(match.groupdict()["rename"],match.groupdict()["subsection"])
         mnlText = mnlText.replace(match.group("car"),link)
 
-# print(mnlText)
+for match in re.finditer(embedRE,mnlText):
+    img = methods.imageEmbed(projectRoot,match.groupdict()["file"],match.groupdict()["rename"])
+    mnlText = mnlText.replace(match.group(0),img)
 
-outName = str(mnlName)+"-mnl.md"
+outName = str(mnlName).replace(".md",".mnl.md")
 outFile = open(outName, "w")
 outFile.write(mnlText)
 outFile.close()

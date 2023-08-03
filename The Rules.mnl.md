@@ -62,37 +62,37 @@ To be able to play the game correctly, each thief will need to understand each o
 
 ### Steal
 
-|![[steal.png\|100]]|Rob a citizen. If not [Trapped](#trap), immediately take a coin from [The City](#the-city).|
+|<img src=/var/home/harleydutton/Workspace/among-thieves/images/steal.png width=100>|Rob a citizen. If not [Trapped](#trap), immediately take a coin from [The City](#the-city).|
 |-|-|
 
 
 
 ### Trap
-|![[trap.png\|100]]|Foil another thief's attempt to [Steal](#steal) from a citizen. Can be played in two different ways:<ul><li>As an interrupt: When a thief plays **Steal**, proceeding clockwise from the thief playing it, each other thief will have a chance to play **Trap** and get the thief attempting to **Steal** [Caught](#caught). This does not count as revealing a card for your turn.</li><li>On your turn: You may play **Trap** on your turn by pointing at a thief who hasn't revealed a **Steal** card yet. If that thief plays **Steal** this [Round](#rounds) they are **Caught**.</li></ul>|
+|<img src=/var/home/harleydutton/Workspace/among-thieves/images/trap.png width=100>|Foil another thief's attempt to [Steal](#steal) from a citizen. Can be played in two different ways:<ul><li>As an interrupt: When a thief plays **Steal**, proceeding clockwise from the thief playing it, each other thief will have a chance to play **Trap** and get the thief attempting to **Steal** [Caught](#caught). This does not count as revealing a card for your turn.</li><li>On your turn: You may play **Trap** on your turn by pointing at a thief who hasn't revealed a **Steal** card yet. If that thief plays **Steal** this [Round](#rounds) they are **Caught**.</li></ul>|
 |-|-|
 
 
 ### Heist
-|![[heist-chest.png\|100]]|Plan out a big, but risky, score! Be wary of [Sabotage](#sabotage). You play **Heist** on your turn and resolve it later in the round.<ol><li>On your turn: Reveal your **Heist** and if not **Sabotaged**, place your **Heist** card on an unclaimed [Heist Location](#heist-locations) to claim it. If all the **Heist Locations** have already been claimed you can replace the **Heist** of a wealthier thief. If you do, they do not resolve their **Heist**.</li><li>Resolution: In the resolution step of the [Round](#rounds), flip the **Heist Location** you placed your **Heist** on face up. If it has coins on the face get that many coins from [The City](#the-city). If it is the [Jail Card](#heist-locations) or if you were **Sabotaged**, you instead get [Caught](#caught).</li></ol>|
+|<img src=/var/home/harleydutton/Workspace/among-thieves/images/heist-chest.png width=100x136>|Plan out a big, but risky, score! Be wary of [Sabotage](#sabotage). You play **Heist** on your turn and resolve it later in the round.<ol><li>On your turn: Reveal your **Heist** and if not **Sabotaged**, place your **Heist** card on an unclaimed [Heist Location](#heist-locations) to claim it. If all the **Heist Locations** have already been claimed you can replace the **Heist** of a wealthier thief. If you do, they do not resolve their **Heist**.</li><li>Resolution: In the resolution step of the [Round](#rounds), flip the **Heist Location** you placed your **Heist** on face up. If it has coins on the face get that many coins from [The City](#the-city). If it is the [Jail Card](#heist-locations) or if you were **Sabotaged**, you instead get [Caught](#caught).</li></ol>|
 |-|-|
 
 
 ### Sabotage
-|![[sabotage.png\|100]]|Throw a wrench in another thief's [Heist](#heist) plans. Can be played in two different ways:<ul><li>As an interrupt: When a thief plays **Heist**, proceeding clockwise from the thief playing it, each other thief will have a chance to play **Sabotage** and get the thief attempting to **Heist** [Caught](#caught). This does not count as revealing a card for your turn.</li><li>On your turn: You may play **Sabotage** on your turn by pointing to a thief who hasn't revealed a **Heist** card yet. If that thief plays **Heist** this [Round](#rounds) they are **Caught**.</li></ul>|
+|<img src=/var/home/harleydutton/Workspace/among-thieves/images/sabotage.png width=100>|Throw a wrench in another thief's [Heist](#heist) plans. Can be played in two different ways:<ul><li>As an interrupt: When a thief plays **Heist**, proceeding clockwise from the thief playing it, each other thief will have a chance to play **Sabotage** and get the thief attempting to **Heist** [Caught](#caught). This does not count as revealing a card for your turn.</li><li>On your turn: You may play **Sabotage** on your turn by pointing to a thief who hasn't revealed a **Heist** card yet. If that thief plays **Heist** this [Round](#rounds) they are **Caught**.</li></ul>|
 |-|-|
 
 ### No Honor
-|![[no-honor.png\|100]]|The ends justify the means; rob another thief! **No Honor** is played early in the [Round](#rounds), resolved near the end, and always discarded.<ol><li>Play: In step 2 of the **Round**, on the [Master Thief's](#master-thief) count, reveal **No Honor** and point at another thief to rob.</li><li>Resolve: In step 5 of the **Round**, in turn order, starting with the **Master Thief**, each thief who played **No Honor** takes one coin from the thief they pointed at. If the thief you are robbing has 5 coins you take two instead. If the thief you are robbing has played both [Trap](#trap) and [Sabotage](#sabotage) they are an **"Honest Businessperson"**, you are [Caught](#caught), and [The City](#the-city) awards them one coin.</li><li>Discard: If you played this card, you must discard it in step 6 of the **Round**.</li></ol>|
+|<img src=/var/home/harleydutton/Workspace/among-thieves/images/no-honor.png width=100>|The ends justify the means; rob another thief! **No Honor** is played early in the [Round](#rounds), resolved near the end, and always discarded.<ol><li>Play: In step 2 of the **Round**, on the [Master Thief's](#master-thief) count, reveal **No Honor** and point at another thief to rob.</li><li>Resolve: In step 5 of the **Round**, in turn order, starting with the **Master Thief**, each thief who played **No Honor** takes one coin from the thief they pointed at. If the thief you are robbing has 5 coins you take two instead. If the thief you are robbing has played both [Trap](#trap) and [Sabotage](#sabotage) they are an **"Honest Businessperson"**, you are [Caught](#caught), and [The City](#the-city) awards them one coin.</li><li>Discard: If you played this card, you must discard it in step 6 of the **Round**.</li></ol>|
 |-|-|
 
 
 ### Master Thief
-|![[master-thief.png\|100]]|Whomever possesses the Master Thief card is the Master Thief. The master thief acts first in many instances. When a thief becomes a master they steal one coin from [The City](#the-city).|
+|<img src=/var/home/harleydutton/Workspace/among-thieves/images/master-thief.png width=100>|Whomever possesses the Master Thief card is the Master Thief. The master thief acts first in many instances. When a thief becomes a master they steal one coin from [The City](#the-city).|
 |-|-|
 
 
 ### Heist Locations
-|![[coin-1.png\|66]]|![[coin-2.png\|66]]|![[coin-3.png\|66]]|![[jail.png\|66]]|
+|<img src=/var/home/harleydutton/Workspace/among-thieves/images/coin-1.png width=66>|<img src=/var/home/harleydutton/Workspace/among-thieves/images/coin-2.png width=66>|<img src=/var/home/harleydutton/Workspace/among-thieves/images/coin-3.png width=66>|<img src=/var/home/harleydutton/Workspace/among-thieves/images/jail.png width=66>|
 |-|-|-|-|
 
 A **Heist  Location** is a face-down card that thieves can attempt to rob using the [Heist](#heist) card. The number of **Heist Locations** is determined in [Setup](#setup). The **Heist Location** deck is the remainder of the **Heist Locations**, shuffled.
