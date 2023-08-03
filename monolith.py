@@ -1,26 +1,35 @@
 import sys, re, methods
 from pathlib import Path
 
-ep = sys.argv[1]
-projectRoot = Path(ep).parent.resolve()
+mnlName = Path(sys.argv[1]).resolve()
+projectRoot = Path(mnlName).parent.resolve()
+mnlText = methods.cat(mnlName)
 
-contents = ""
-with open(ep) as my_file:
-    contents = my_file.read()
-
-embedRE = r"\!\[\[(?P<file>.*)\]\]"
+embedRE = r"\!\[\[(?P<file>.*?)(\|(?P<rename>.*?))?\]\]"
 #linkRE = r"\[\[(?P<file>.*)(?P<heading>#.*){0,1}(?P<text>\|.*){0,1}\]\]"
 
+# print(mnlText)
+# while re.search(embedRE, mnlText):
+#     match = re.search(embedRE, mnlText)
+#     print(match)
+#     print(match.groupdict())
+#     mnlText=mnlText.replace(match.group(0),"")
+
+print(mnlText)
+counter = 0
+while re.search(embedRE,mnlText):
+    counter += 1
+    print (counter)
+    match = re.search(embedRE,mnlText)
+    text = methods.cat(methods.findFile(projectRoot,match.groupdict()["file"]))
+    mnlText=mnlText.replace(match.group(0),text)
+print(mnlText)
+
+
+# print(methods.findFile(projectRoot,m.groupdict()['file']))
+# myFile = methods.findFile(projectRoot,m.groupdict()['file'])
+# myText = methods.cat(myFile)
+#print(myText)
+
 #while '[[' in contents:
-m = re.search(embedRE,contents)
-print(m.groupdict())
-
-print(methods.findFile(projectRoot,m.groupdict()['file']))
-myFile = methods.findFile(projectRoot,m.groupdict()['file'])
-myText = methods.embed(myFile)
-print(myText)
-
-
-
-def link(token):
-    return "link placeholder"
+# print(m.groupdict())
