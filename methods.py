@@ -8,5 +8,5 @@ def cat(absName):
     with open(absName) as myFile:
         return myFile.read()
     
-def link(args):
-    return "link placeholder"
+def githubLink(text, heading):
+    return "[{}](#{})".format(text, heading.replace(" ","-").lower())
