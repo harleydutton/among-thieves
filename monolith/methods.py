@@ -15,5 +15,5 @@ def imageEmbed(projectRoot,name,size):
     absName = None
     for path in Path(projectRoot).rglob("*/"+name):
         absName = path
-    template = "<img src={} width={}>"
+    template = '<img src="{}" width="{}"/>'
     return template.format(absName,size if size is not None else -1)

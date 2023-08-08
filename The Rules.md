@@ -17,7 +17,7 @@ Each game will follow these three steps: [[The Rules#Setup|Setup]] then [[The Ru
 ![[Setup]]
 
 ### Rounds
-![[Round|asfdasdf]]
+![[Round]]
 
 ### Winning the Game
 ![[Winning the Game]]
