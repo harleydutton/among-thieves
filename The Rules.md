@@ -61,5 +61,9 @@ The following are abstract concepts rather than physical game components. Each t
 ## Additional Rules
 ![[Additional Rules]]
 
+### Optional Rules
+![[Optional Rules]]
+
+---
 ## Credits
 ![[Credits]]
