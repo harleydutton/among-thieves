@@ -1,4 +1,5 @@
 - Increase the number of coins in the game from 31 to infinite.
 - Don't shuffle revealed [[Heist Locations]] into the Heist Location deck until the deck is empty.
 - Each [[Round]], resolve [[No Honor]] cards in turn order, starting with the [[Master Thief]] as soon as they are revealed in step 2.a and skip step 3.b.
+- Allow [[Sabotage]] to be played a third way: On thieves who have already revealed a [[Heist]].
 - When [[Heist|Heists]] resolve in step 3.a of the [[Round]] the heisting thief takes the [[Heist Locations|Heist Location]]. They can look at it but they they are not able to find a fence or get [[Caught]] until step 3.a of the *next* round. They will not gain or lose any coins from the **Heist** until then.
