@@ -11,13 +11,13 @@
 
 ---
 ## Gameplay
-Each game will follow these three steps:
+Each game will follow these three steps: [[The Rules#Setup|Setup]] then [[The Rules#Rounds|Rounds]] until a thief [[The Rules#Winning the Game|Wins]].
 
 ### Setup
 ![[Setup]]
 
 ### Rounds
-![[Round|]]
+![[Round]]
 
 ### Winning the Game
 ![[Winning the Game]]

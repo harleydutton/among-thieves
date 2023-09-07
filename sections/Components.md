@@ -11,3 +11,4 @@
 	- 2x 3-Coin Cards
 - 1 Master Thief Card
 - 31 coins
+-  3-5 thieves
