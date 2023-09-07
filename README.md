@@ -7,6 +7,8 @@
 4. Get your own coins; the maximum you could need is 43
 
 ## Viewing Instructions
+### Obsidian Publish
+- View [The Rules](https://publish.obsidian.md/among-thieves/The+Rules) online!
 ### Android
 - Download and install Termux and Obsidian from the Google Play store
 - Open Termux and run `apt-get update` (upgrade?) and then `termux-enable-storage` and follow the prompts
