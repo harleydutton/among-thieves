@@ -13,9 +13,6 @@ define "your turn" as it is used in [[Sabotage]] and [[Trap]].
 
 [[problems]] A graphic of what each player's play area should look like would be helpful. A reminder card could be used to mark your discard pile. Should discard be face-up or facedown? people don't seem to be having issues with the city or the heist locations.
 
-[[problems]] in playtesting, there seems to be a problem where people don't understand the timing of trap and sabotage. I think allowing sabotage to be played after the fact would solve some of this problem. Steal doesn't seem to be as much of a problem.
 
 
 
-
-how many players can there be in a game?

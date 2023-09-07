@@ -13,3 +13,7 @@ ol ol {
 ol ol ol {
         list-style-type: lower-roman;
 }
+
+th{
+    font-weight: normal;
+}
