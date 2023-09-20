@@ -9,5 +9,6 @@ Among Thieves is a game played in **Rounds**, consisting of the same basic steps
 	1. Resolve [[Heist]] cards.
 	2. Resolve [[No Honor]] cards.
 4. Cleanup
-	1. Secretly choose one of the cards you played this **Round** and discard it. Return the other to your hand. If your hand is only one card return all discarded cards to your hand.
-	2. Resolved [[Heist Locations]] are shuffled into the deck and new ones are drawn to replace them.
+	1. Check to see if a thief has **Won the Game**.
+	2. Secretly choose one of the cards you played this **Round** and discard it.  Remember, if you played **No Honor**, you must to discard it. Return the other to your hand. If your hand is only one card return all discarded cards to your hand.
+	3. Resolved [[Heist Locations]] are shuffled into the deck and new ones are drawn to replace them.
