@@ -2,13 +2,13 @@
 ![[The Story]]
 
 ## Introduction
-![[Intro]]
+![[Introduction]]
 
 ## Components
 ![[Components]]
 
 ## Gameplay
-Each game will follow these three steps: [[The Rules#Setup|Setup]] then [[The Rules#Rounds|Rounds]] until a thief [[The Rules#Winning the Game|Wins]].
+Each game will follow these three steps: [[Among Thieves Rulebook#Setup|Setup]] then [[Among Thieves Rulebook#Rounds|Rounds]] until a thief [[Among Thieves Rulebook#Winning the Game|Wins]].
 
 ### Setup
 ![[Setup]]

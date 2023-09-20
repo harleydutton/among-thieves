@@ -1,7 +1,7 @@
 - 5 sets of 5 action cards:
 	- 5x Steal Cards
 	- 5x Trap Cards
-	- 5x Heist Cards -- all with different art
+	- 5x Heist Cards--all with different art
 	- 5x Sabotage Cards
 	- 5x No Honor Cards
 - 10 heist locations:
