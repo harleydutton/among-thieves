@@ -1,5 +1,0 @@
-Among thieves is a game for 3 to 5 thieves. Before you start the game, the following should be done:
-1. Each thief receives a complete set of 5 action cards: One each of [[The Rules#Steal|Steal]], [[The Rules#Trap|Trap]], [[The Rules#Sabotage|Sabotage]], [[The Rules#Heist|Heist]], and [[The Rules#No Honor|No Honor]].
-2. All the coins are put in the the middle of the table. This is [[The Rules#The City|The City]] and it represents the wealth of the citizens. Then, each thief steals a coin.
-3. The [[The Rules#Heist Locations|Heist Locations]] are shuffled and a number of them, equal to the number of thieves minus 2, are placed face down next to **The City** in the middle of the table. The remaining **Heist Locations** are set aside until step 7 of the [[The Rules#Rounds|Round]].
-4. The title of [[The Rules#Master Thief|Master Thief]] goes to whomever snatches the card first!

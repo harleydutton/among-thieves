@@ -1,17 +1,14 @@
 ## Story
 ![[The Story]]
 
----
 ## Introduction
-![[Intro]]
+![[Introduction]]
 
----
 ## Components
 ![[Components]]
 
----
 ## Gameplay
-Each game will follow these three steps: [[The Rules#Setup|Setup]] then [[The Rules#Rounds|Rounds]] until a thief [[The Rules#Winning the Game|Wins]].
+Each game will follow these three steps: [[Among Thieves Rulebook#Setup|Setup]] then [[Among Thieves Rulebook#Rounds|Rounds]] until a thief [[Among Thieves Rulebook#Winning the Game|Wins]].
 
 ### Setup
 ![[Setup]]
@@ -22,7 +19,6 @@ Each game will follow these three steps: [[The Rules#Setup|Setup]] then [[The Ru
 ### Winning the Game
 ![[Winning the Game]]
 
----
 ## The Cards
 To be able to play the game correctly, each thief will need to understand each of these cards:
 
@@ -47,7 +43,6 @@ To be able to play the game correctly, each thief will need to understand each o
 ### Heist Locations
 ![[Heist Locations]]
 
----
 ## Concepts
 The following are abstract concepts rather than physical game components. Each thief will need to understand them in order to play:
 
@@ -57,9 +52,14 @@ The following are abstract concepts rather than physical game components. Each t
 ### Caught
 ![[Caught]]
 
----
 ## Additional Rules
 ![[Additional Rules]]
 
-## Credits
-![[Credits]]
+### Optional Rules
+![[Optional Rules]]
+
+## Original Credits
+![[Original Credits]]
+
+## Remastered Credits
+![[Remastered Credits]]

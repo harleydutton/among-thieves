@@ -1,1 +1,0 @@
-When a thief is **Caught** committing robberies they must bribe the law in order to escape. The thief receives no coins from their robbery and returns one coin to [[The Rules#The City|The City]], if able.
