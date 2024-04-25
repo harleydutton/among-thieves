@@ -1,10 +1,10 @@
 - 5 sets of 5 action cards:
-	- 5x Steal Cards
-	- 5x Trap Cards
-	- 5x Heist Cards--all with different art
-	- 5x Sabotage Cards
-	- 5x No Honor Cards
-- 10 heist locations:
+	- 5x [[Steal]] Cards
+	- 5x [[Trap]] Cards
+	- 5x [[Heist]] Cards--all with different art
+	- 5x [[Sabotage]] Cards
+	- 5x [[No Honor]] Cards
+- 10 [[Heist Locations]]:
 	- 3x Jail Cards
 	- 2x 1-Coin Cards
 	- 3x 2-Coin Cards

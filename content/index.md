@@ -8,7 +8,7 @@ title: Rules
 ![[Components]]
 
 # Gameplay
-Each game will follow these three steps: [[Among Thieves Rulebook#Setup|Setup]] then [[Among Thieves Rulebook#Rounds|Rounds]] until a thief [[Among Thieves Rulebook#Winning the Game|Wins]].
+Each game will follow these three steps: [[Setup]] then [[Round|Rounds]] until a thief [[Winning the Game|Wins]].
 
 ![[Setup]]
 

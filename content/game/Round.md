@@ -1,3 +1,7 @@
+---
+aliases:
+  - Rounds
+---
 Among Thieves is a game played in **Rounds**, consisting of the same basic steps as described below until some clever and thief [[Winning the Game|Wins the Game]].
 1. Select
 	1. If it's not the first round, pass the [[Master Thief]] card to the next thief clockwise.
