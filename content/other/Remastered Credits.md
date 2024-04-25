@@ -1,5 +1,4 @@
-Graphic Design: Ethan Johnston
-
-Rules and Editing: Harley Dutton
+- Graphic Design: Ethan Johnston
+- Rules and Editing: Harley Dutton
 
 Yarr-harr!
