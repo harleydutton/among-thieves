@@ -47,7 +47,7 @@ The following are abstract concepts rather than physical game components. Each t
 ---
 
 # Additional Rules
-![[game/Edge Cases]]
+![[Game/Edge Cases]]
 
 ![[Optional Rules]]
 
