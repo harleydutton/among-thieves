@@ -11,3 +11,4 @@ replit.nix
 !.obsidian/snippets/*
 .vscode
 **/__pycache__
+*.swp
