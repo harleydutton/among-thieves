@@ -1,18 +1,10 @@
-# Quartz v4
+# Among Thieves
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## Getting the Cards
+1. Images for the card faces and back are in `./meta/iamges/`
+2. Quantities needed are in `./sections/Components.md`
+3. Order from an [online print shop](https://www.makeplayingcards.com/design/custom-blank-card.html)
+4. Get your own coins; you will need at least 31
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Getting the Rules
+- View [The Rules](https://publish.obsidian.md/harley-dutton/among-thieves/Among+Thieves+Rulebook) online!
