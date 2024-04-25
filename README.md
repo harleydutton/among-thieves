@@ -7,4 +7,4 @@
 4. Get your own coins; you will need at least 31
 
 ## Getting the Rules
-- View [The Rules](https://publish.obsidian.md/harley-dutton/among-thieves/Among+Thieves+Rulebook) online!
+- View [The Rules](https://harleydutton.github.io/among-thieves) online!

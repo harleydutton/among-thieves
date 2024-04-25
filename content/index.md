@@ -1,7 +1,6 @@
 ---
 title: Rules
 ---
-
 ![[The Story]]
 
 ![[Introduction]]
@@ -48,7 +47,7 @@ The following are abstract concepts rather than physical game components. Each t
 ---
 
 # Additional Rules
-![[Gameplay/Edge Cases]]
+![[game/Edge Cases]]
 
 ![[Optional Rules]]
 

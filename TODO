@@ -1,8 +1,4 @@
-remove the H1 block in the ./content/index.md
-update the rules link in ./README.md
 add something for the jen edge case (want to heist when richest and all heist locations are full)
-set domain and title in config
 fix the heist locations note/table
 add links (or at the very least image embeds) to everything in components
-check on the baseUrl in quartz.config.ts
 go through and fix the broken links
