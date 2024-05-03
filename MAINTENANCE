@@ -6,7 +6,7 @@ use `git remote -v` to check remotes
 add quartz if absent with `git remote add upstream https://github.com/jackyzha0/quartz.git`
 
 ###
-to push a new version of the site simply push to main. ci is done using cloudflare and github pages.
+to push a new version of the site simply push to main. cicd is done using cloudflare and github pages.
 
 ###
 This was set using these pages as reference:
@@ -15,3 +15,7 @@ https://quartz.jzhao.xyz/hosting
 
 ###
 to modify site css go to ./quartz/styles/custom.scss and make changes
+
+###
+to hide pages consult https://quartz.jzhao.xyz/features/private-pages
+notably, to hide a folder add it's name to ignorePatterns in quartz.config.ts
