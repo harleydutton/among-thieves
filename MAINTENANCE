@@ -12,6 +12,7 @@ to push a new version of the site simply push to main. cicd is done using cloudf
 This was set using these pages as reference:
 https://quartz.jzhao.xyz/setting-up-your-GitHub-repository
 https://quartz.jzhao.xyz/hosting
+cloudflare might be unnecessary for github pages to work. unsure.
 
 ###
 to modify site css go to ./quartz/styles/custom.scss and make changes
@@ -19,3 +20,10 @@ to modify site css go to ./quartz/styles/custom.scss and make changes
 ###
 to hide pages consult https://quartz.jzhao.xyz/features/private-pages
 notably, to hide a folder add it's name to ignorePatterns in quartz.config.ts
+
+###
+content directory can be set using `npx quartz build [--serve] --directory among-thieves`
+per this pagehttps://quartz.jzhao.xyz/build
+this is useful because it lets obsidian vaults have diffent names
+the cost is that I must modify the build command in the cicd
+
