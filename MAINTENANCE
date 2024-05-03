@@ -13,3 +13,5 @@ This was set using these pages as reference:
 https://quartz.jzhao.xyz/setting-up-your-GitHub-repository
 https://quartz.jzhao.xyz/hosting
 
+###
+to modify site css go to ./quartz/styles/custom.scss and make changes
