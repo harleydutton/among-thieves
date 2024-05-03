@@ -12,7 +12,7 @@ to push a new version of the site simply push to main. cicd is done using cloudf
 This was set using these pages as reference:
 https://quartz.jzhao.xyz/setting-up-your-GitHub-repository
 https://quartz.jzhao.xyz/hosting
-cloudflare might be unnecessary for github pages to work. unsure.
+cloudflare is unnecessary for github pages to work
 
 ###
 to modify site css go to ./quartz/styles/custom.scss and make changes
