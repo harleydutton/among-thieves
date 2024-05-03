@@ -7,11 +7,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-!.obsidian/snippets/*
-.vscode
-**/__pycache__
 *.swp
-.obsidian/*
-!.obsidian/snippets/*
-.vscode
-**/__pycache__
+.obsidian
